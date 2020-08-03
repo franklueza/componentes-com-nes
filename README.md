@@ -1,2 +1,2 @@
-# componentes-com-nes
+# componentes-comunes
 Mis Componentes en html y css
